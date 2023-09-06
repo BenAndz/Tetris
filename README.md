@@ -1,4 +1,4 @@
-# Tetris
+# Tetris (non adaptatif, non compatible avec les appareils mobiles)
 
 Voici le lien pour jouer : https://benandz.github.io/Tetris/
 
